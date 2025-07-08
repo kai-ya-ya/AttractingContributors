@@ -11,3 +11,4 @@
 - Masataka Yoshida
 - Quan Hongchan
 - Shohei Ohtani
+- Usain Bolt
